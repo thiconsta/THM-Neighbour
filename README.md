@@ -1,6 +1,6 @@
 # THM-Neighbour
 ## WriteUp PT-BR 🇧🇷
-
+https://tryhackme.com/room/neighbour
 **TryHackMe — Neighbour CTF Walkthrough / WriteUp**
 
 Neste desafio da TryHackMe, precisamos explorar uma vulnerabilidade conhecida como **IDOR (Insecure Direct Object Reference)**.
@@ -22,8 +22,7 @@ Clique em **Start Machine** para iniciar a **LAB Machine**, que será o nosso al
 <img width="1296" height="809" alt="Iniciando a LAB Machine" src="https://github.com/user-attachments/assets/8c35a4a7-2734-48bd-847a-fe9a94b83c1b" />
 
 Após iniciar a máquina, acessamos o endereço fornecido pela TryHackMe.
-
----
+Podemos acessar via Attacker machine do próprio Tryhackme ou via VPN com sua própria VM de preferencia. 
 
 ## 🔐 Página de Login
 
